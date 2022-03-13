@@ -8,7 +8,7 @@ Curated list for Web3 Social Media and protocols
 - [Protocols](#protocol)
   - [Social Graph](#social-graph)
   - [Portable Digital Identity](#portable-digital-identity)
-  - [Badge](#Badge)
+  - [Attestations](#attestations)
 
 ## Social Media
 - [Light](https://light.so/)
@@ -23,5 +23,5 @@ Curated list for Web3 Social Media and protocols
 ### Portable Digital Identity
 - [Disco.xyz](https://www.disco.xyz/) - Supports the personal data backpack that you own and travels with you across Web2 and Web3 social media.
 
-### Badge
+### Attestations
 - [POAP](https://poap.xyz/) - This Proof of Attendance Protocol provides bookmarks for every important moment that you might want in your social media dApp.
