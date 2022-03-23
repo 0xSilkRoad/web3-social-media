@@ -15,7 +15,7 @@ Curated list for Web3 Social Media and protocols
 - [Orbis](https://orbis.club/)
 - [Solcial](https://solcial.io/)
 
-## Messaging platform
+## Messaging Platform
 - [Blockscan Chat](https://chat.blockscan.com/)
 - [CyberChat](https://www.cyberch.at/)
 
