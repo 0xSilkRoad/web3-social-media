@@ -15,6 +15,10 @@ Curated list for Web3 Social Media and protocols
 - [Orbis](https://orbis.club/)
 - [Solcial](https://solcial.io/)
 
+## Messaging platform
+- [Blockscan Chat](https://chat.blockscan.com/)
+- [CyberChat](https://www.cyberch.at/)
+
 ## Protocols
 ### Social Graph
 - [CyberConnect](https://cyberconnect.me/) - Web3 social graph that lives in both Ethereum and Solana. This protocol provides powerful indexing results from the social graph such as recommendations and making sense from the complexity of the social graph.
