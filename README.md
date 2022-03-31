@@ -14,6 +14,7 @@ Curated list for Web3 Social Media and protocols
 - [Light](https://light.so/)
 - [Orbis](https://orbis.club/)
 - [Solcial](https://solcial.io/)
+- [Lenster](https://alpha.lenster.xyz/)
 
 ## Messaging Platform
 - [Blockscan Chat](https://chat.blockscan.com/)
