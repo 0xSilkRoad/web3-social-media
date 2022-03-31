@@ -30,3 +30,6 @@ Curated list for Web3 Social Media and protocols
 
 ### Attestations
 - [POAP](https://poap.xyz/) - This Proof of Attendance Protocol provides bookmarks for every important moment that you might want in your social media dApp.
+
+## Lens Protocol Tools
+- [Private AI](https://github.com/sicongzhao/LFGrow-ML) - uses AI models run in browser, with 2 modes, detects and prevent malicious information to display to users and curated with recommendation model information based on users' preference.
