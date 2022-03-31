@@ -16,6 +16,8 @@ Curated list for Web3 Social Media and protocols
 - [Orbis](https://orbis.club/)
 - [Solcial](https://solcial.io/)
 - [Lenster](https://alpha.lenster.xyz/) - (alpha)
+- [Iris](https://irisxyz.web.app/)
+- [Zilly](https://zilly.vercel.app/)
 
 ## Messaging Platform
 - [Blockscan Chat](https://chat.blockscan.com/)
