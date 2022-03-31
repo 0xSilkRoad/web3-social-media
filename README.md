@@ -1,6 +1,6 @@
 # Web3 Social Media
 
-Curated list for Web3 Social Media and protocols
+Curated list for Web3 Social Media, protocols and tools
 
 ## Table of Contents:
 
@@ -22,6 +22,7 @@ Curated list for Web3 Social Media and protocols
 ## Messaging Platform
 - [Blockscan Chat](https://chat.blockscan.com/)
 - [CyberChat](https://www.cyberch.at/)
+- [Hashchat](https://hashchat-lfgrow.netlify.app/)
 
 ## Protocols
 ### Social Graph
