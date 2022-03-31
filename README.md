@@ -9,6 +9,7 @@ Curated list for Web3 Social Media and protocols
   - [Social Graph](#social-graph)
   - [Portable Digital Identity](#portable-digital-identity)
   - [Attestations](#attestations)
+- [Lens Protocol Tools](#lens-protocol-tools)
 
 ## Social Media
 - [Light](https://light.so/)
@@ -33,3 +34,4 @@ Curated list for Web3 Social Media and protocols
 
 ## Lens Protocol Tools
 - [Private AI](https://github.com/sicongzhao/LFGrow-ML) - uses AI models run in browser, with 2 modes, detects and prevent malicious information to display to users and curated with recommendation model information based on users' preference.
+- [Sepana Lens Search](https://github.com/sepana-io/lens-search-frontend) - Search and discovery engine for the Lens protocol
